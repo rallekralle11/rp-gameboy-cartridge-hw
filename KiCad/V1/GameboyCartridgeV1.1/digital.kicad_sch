@@ -4041,6 +4041,12 @@
 		(uuid "5f6b768f-9684-4c68-b47e-88013a849323")
 	)
 	(junction
+		(at 74.93 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "63989ebc-e89f-4c1b-ac9f-62bd0afac85d")
+	)
+	(junction
 		(at 157.48 20.32)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -4137,6 +4143,14 @@
 		(uuid "f88dab82-e54b-421e-b9e8-1a2dd9bd293b")
 	)
 	(no_connect
+		(at 93.98 53.34)
+		(uuid "30cdab0f-7e07-4383-92d1-cc9521447caa")
+	)
+	(no_connect
+		(at 93.98 55.88)
+		(uuid "3d32523e-027b-45c9-b39e-154f7d6ad2fe")
+	)
+	(no_connect
 		(at 270.51 97.79)
 		(uuid "48ac1b68-07b6-47ca-bad5-60d722eab976")
 	)
@@ -4157,8 +4171,16 @@
 		(uuid "9be07d30-1834-4fc8-81ed-bb5d07f4e1b2")
 	)
 	(no_connect
+		(at 93.98 30.48)
+		(uuid "b66c4940-8cd1-4f50-8d08-aff3e0b501d0")
+	)
+	(no_connect
 		(at 48.26 33.02)
 		(uuid "d78f5669-1942-4516-9f4d-db7c54ace6f1")
+	)
+	(no_connect
+		(at 93.98 33.02)
+		(uuid "d80bb882-59a6-41c2-a850-f4bcef33c0bb")
 	)
 	(no_connect
 		(at 48.26 30.48)
@@ -5112,6 +5134,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 43.18) (xy 95.25 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4d6c677e-2750-40a6-a7e3-a1f63cada1bd")
+	)
+	(wire
+		(pts
 			(xy 39.37 177.8) (xy 40.64 177.8)
 		)
 		(stroke
@@ -5159,6 +5191,16 @@
 			(type default)
 		)
 		(uuid "508bf1ea-9cc9-4e93-a8ab-f39e491f7247")
+	)
+	(wire
+		(pts
+			(xy 74.93 63.5) (xy 74.93 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5293783d-d86f-4038-ab46-e72af21da797")
 	)
 	(wire
 		(pts
@@ -5392,6 +5434,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 38.1) (xy 95.25 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "755aa2dc-3918-491b-b06c-9e992cae3e68")
+	)
+	(wire
+		(pts
 			(xy 140.97 100.33) (xy 142.24 100.33)
 		)
 		(stroke
@@ -5469,6 +5521,16 @@
 			(type default)
 		)
 		(uuid "863c6cce-42c3-4c2d-ae58-75d72115899f")
+	)
+	(wire
+		(pts
+			(xy 95.25 43.18) (xy 95.25 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "881ef6a0-f0cf-4503-b66d-f33f13c028cb")
 	)
 	(wire
 		(pts
@@ -5672,6 +5734,16 @@
 	)
 	(wire
 		(pts
+			(xy 95.25 25.4) (xy 95.25 24.13)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3fa2740-80fe-4737-95d8-fa60aa2f47e3")
+	)
+	(wire
+		(pts
 			(xy 48.26 38.1) (xy 49.53 38.1)
 		)
 		(stroke
@@ -5802,6 +5874,16 @@
 	)
 	(wire
 		(pts
+			(xy 93.98 25.4) (xy 95.25 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b9b5bf3b-6b56-4dcd-9b78-0939a5a35bce")
+	)
+	(wire
+		(pts
 			(xy 134.62 120.65) (xy 139.7 120.65)
 		)
 		(stroke
@@ -5879,6 +5961,16 @@
 			(type default)
 		)
 		(uuid "c2e84541-9597-4f91-98cc-3f0de7a5043d")
+	)
+	(wire
+		(pts
+			(xy 93.98 45.72) (xy 95.25 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4388442-f70f-4381-8af0-63abdd2ecae3")
 	)
 	(wire
 		(pts
@@ -5990,6 +6082,16 @@
 		)
 		(uuid "d043a1a3-d49b-4826-b40d-9cb319eb1f4f")
 	)
+	(wire
+		(pts
+			(xy 71.12 63.5) (xy 74.93 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d14d1d3d-b4d9-4da6-8130-8b7cabe41971")
+	)
 	(bus
 		(pts
 			(xy 207.01 128.27) (xy 207.01 130.81)
@@ -6089,6 +6191,16 @@
 			(type default)
 		)
 		(uuid "de42e15f-da55-4e77-8988-cf1ab603d319")
+	)
+	(wire
+		(pts
+			(xy 95.25 38.1) (xy 95.25 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dee47f87-8bdd-4aeb-bf9c-11676b237075")
 	)
 	(wire
 		(pts
@@ -6312,6 +6424,16 @@
 	)
 	(wire
 		(pts
+			(xy 74.93 63.5) (xy 78.74 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f97fbff4-a3bf-4940-8488-bfca1b7ae969")
+	)
+	(wire
+		(pts
 			(xy 262.89 30.48) (xy 264.16 30.48)
 		)
 		(stroke
@@ -6329,6 +6451,16 @@
 			(type default)
 		)
 		(uuid "f9dfbc7c-f3cb-4497-bf17-04ade1e82ab0")
+	)
+	(wire
+		(pts
+			(xy 93.98 40.64) (xy 95.25 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9e6757d-801b-4f1e-8a38-921a28b2049c")
 	)
 	(wire
 		(pts
@@ -6980,6 +7112,28 @@
 			)
 		)
 	)
+	(global_label "USB_D-"
+		(shape input)
+		(at 95.25 39.37 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "99a52609-7042-48fb-a984-8b9abf9570a6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.7758 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "RST"
 		(shape output)
 		(at 264.16 30.48 0)
@@ -6997,6 +7151,28 @@
 				(font
 					(size 1.27 1.27)
 				)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "USB_D+"
+		(shape input)
+		(at 95.25 44.45 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "abbc2ee2-5854-4140-9c05-35455656a209")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 105.7758 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -10071,6 +10247,127 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:USB_C_Receptacle_USB2.0")
+		(at 78.74 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "99d92586-8d5f-44d8-9720-672b43fa8e46")
+		(property "Reference" "J4"
+			(at 78.74 19.8501 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "USB_C_Receptacle_USB2.0"
+			(at 78.74 21.7711 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
+			(at 82.55 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://www.usb.org/sites/default/files/documents/usb_type-c.zip"
+			(at 82.55 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 78.74 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "LCSC" "C2927037"
+			(at 78.74 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "A1"
+			(uuid "bde261dc-fda5-4b75-ae30-2c20d0f009b6")
+		)
+		(pin "A12"
+			(uuid "6bf2d9da-7e95-4bcd-b7a5-9f4749d22e59")
+		)
+		(pin "A4"
+			(uuid "5dde6368-c06c-4897-a2aa-e9e3f072de20")
+		)
+		(pin "A5"
+			(uuid "037ff620-0a02-4158-9f86-06c2b78fb706")
+		)
+		(pin "A6"
+			(uuid "a8e19a9d-3819-4e8d-a4f4-7b8064b15119")
+		)
+		(pin "A7"
+			(uuid "3ecf63c2-997f-436f-a621-82d1954a380f")
+		)
+		(pin "A8"
+			(uuid "4bbdb1b4-70f7-4889-88ed-a54bc915743d")
+		)
+		(pin "A9"
+			(uuid "dd35ef61-d100-4854-ba35-5076c8d6039e")
+		)
+		(pin "B1"
+			(uuid "8454727d-e0fe-4f04-b9d6-9ec0218f6592")
+		)
+		(pin "B12"
+			(uuid "f65b63a2-9eba-41b0-bb80-7a2b34b228d9")
+		)
+		(pin "B4"
+			(uuid "f9e21449-3262-4fee-8696-8c45952fe572")
+		)
+		(pin "B5"
+			(uuid "d049893b-7c93-4558-bc30-233269687233")
+		)
+		(pin "B6"
+			(uuid "84f519dc-f172-46b9-afd3-dc9069d097c1")
+		)
+		(pin "B7"
+			(uuid "90cbdcef-a479-4ac4-8908-3f472504e252")
+		)
+		(pin "B8"
+			(uuid "c8e6a9cb-dbdd-4b7e-ba46-b2d94c8de6a4")
+		)
+		(pin "B9"
+			(uuid "24bce530-9735-4000-b156-b7a57809dd21")
+		)
+		(pin "S1"
+			(uuid "269ce4da-3607-42a3-9c51-6eb1b0aa7925")
+		)
+		(instances
+			(project "GameboyCartridgeV1.1"
+				(path "/29c97174-46f8-4c48-b4a7-5a1e45e73b0e/7814998b-2ec4-4ba1-81ae-f3ffbead2be9"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 168.91 25.4 180)
 		(unit 1)
@@ -11062,6 +11359,135 @@
 			(project "GameboyCartridgeV1.1"
 				(path "/29c97174-46f8-4c48-b4a7-5a1e45e73b0e/7814998b-2ec4-4ba1-81ae-f3ffbead2be9"
 					(reference "#PWR07")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 74.93 64.77 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f3d9cc3c-a032-4b66-ab3e-6634ba3e4ba2")
+		(property "Reference" "#PWR031"
+			(at 74.93 71.12 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 75.057 69.1642 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 74.93 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 74.93 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 74.93 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0ec38692-591a-42a4-863e-ab1b2d1aa6e9")
+		)
+		(instances
+			(project "GameboyCartridgeV1.1"
+				(path "/29c97174-46f8-4c48-b4a7-5a1e45e73b0e/7814998b-2ec4-4ba1-81ae-f3ffbead2be9"
+					(reference "#PWR031")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:VBUS")
+		(at 95.25 24.13 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f48aaf6e-c653-4438-bd7d-66401445a93c")
+		(property "Reference" "#PWR036"
+			(at 95.25 27.94 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "VBUS"
+			(at 95.25 20.6281 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 95.25 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 95.25 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 95.25 24.13 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "64d0be4e-e1be-46e8-8306-9fda6127c03a")
+		)
+		(instances
+			(project "GameboyCartridgeV1.1"
+				(path "/29c97174-46f8-4c48-b4a7-5a1e45e73b0e/7814998b-2ec4-4ba1-81ae-f3ffbead2be9"
+					(reference "#PWR036")
 					(unit 1)
 				)
 			)
